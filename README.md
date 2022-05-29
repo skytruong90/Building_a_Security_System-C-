@@ -1,2 +1,8 @@
-# Building a Security System in C++
-I build a security system again but now I am using C++ programming language.
+# What is this?
+This is a Security System that I build using C++
+
+# What does this do?
+
+# Installation:
+
+# How To Use:
