@@ -1,5 +1,5 @@
 # What is this?
-This is a Security System that I build using C++
+This is a security system that I built using C++
 
 # What does this do?
 
