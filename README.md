@@ -17,4 +17,5 @@ https://www.youtube.com/watch?v=YY2MHgZEbME
 
 ## Output Screenshot:
 <img src="pic1.png" width="420">
+
 <img src="pic2.png" width="420">
