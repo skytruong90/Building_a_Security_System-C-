@@ -16,7 +16,5 @@ https://www.youtube.com/watch?v=YY2MHgZEbME
 5. Or use a online compiler.
 
 ## Output Screenshot:
-<img src="" width="420">
-<img src="" width="420">
-<img src="" width="420">
-<img src="" width="420">
+<img src="pic1.png" width="420">
+<img src="pic2.png" width="420">
