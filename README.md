@@ -4,6 +4,7 @@
 This is a security system project that I built using C++
 
 ## Purpose: 
+To understand C++ syntax and to create a project that can handle password change and login information. 
 
 ## Here is a Live Demo:
 https://www.youtube.com/watch?v=YY2MHgZEbME
