@@ -1,7 +1,7 @@
 # Title: Security System 
 
 ## Coding Language: 
-I built using C++
+This is a Security System project where I built using C++
 
 ## Purpose: 
 To understand C++ syntax and to create a project that can handle password change and login information. 
