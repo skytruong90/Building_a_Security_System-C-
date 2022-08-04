@@ -15,7 +15,7 @@ https://www.youtube.com/watch?v=YY2MHgZEbME
 4. You can run the code on VS code.
 5. Or use a online compiler.
 
-## Output Screenshot:
+## Output Screenshots:
 <img src="pic1.png" width="420">
 
 <img src="pic2.png" width="420">
